@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./Educations.css";
 import DegreeCard from "../../components/degreeCard/DegreeCard.js";
-import { degrees } from "../../portfolio";
+// import { degrees } from "../../portfolio";
 import { Fade } from "react-reveal";
 
 class Educations extends Component {
