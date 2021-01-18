@@ -549,12 +549,14 @@ const contactPageData = {
       "We are available on almost every social media. You can message us, we will reply within 24 hours. We can help you with Android, iOS, macOS, Cloud and Opensource Development.",
   },
   phoneSection1: {
-    title: "Phone Number Stefan",
+    title: "Contact Stefan",
     subtitle: "+40731332675",
+    mail: "stfn_olteanu@yahoo.com",
   },
   phoneSection2: {
-    title: "Phone Number Razvan",
+    title: "Contact Razvan",
     subtitle: "+40751481604",
+    mail: "rjrazvan@icloud.com",
   },
 };
 

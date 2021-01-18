@@ -120,6 +120,12 @@ class Contact extends Component {
                 >
                   {phoneSection["subtitle"]}
                 </p>
+                <p
+                  className="contact-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {phoneSection["mail"]}
+                </p>
                 <h1
                   className="address-heading-text"
                   style={{ color: theme.text }}
@@ -131,6 +137,12 @@ class Contact extends Component {
                   style={{ color: theme.secondaryText }}
                 >
                   {phoneSection2["subtitle"]}
+                </p>
+                <p
+                  className="contact-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {phoneSection2["mail"]}
                 </p>
                 {/* <div className="address-btn-div">
                   <Button
