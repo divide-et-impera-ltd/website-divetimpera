@@ -1,6 +1,6 @@
 const openSource = {
-  githubConvertedToken: "d30aaf61ac4d977c1794dc921aee62e6b74d94c6",
-  githubUserName: "divide-et-impera-ltd",
+  githubConvertedToken: "2cdc6a1bcb85b808d4f3cbd8c8381db941c2115c ",
+  githubUserName: "stef-olteanu",
 };
 
 const fetch = require("node-fetch");
