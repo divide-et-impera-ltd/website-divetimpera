@@ -179,9 +179,9 @@ const skills = {
       title: "Video Editing",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Creating highly calitative videos",
+        "⚡ Customizing your videos and make them yours",
+        "⚡ Creating the flow of scenes to make it a pleasant video to watch",
       ],
       softwareSkills: [
         {
