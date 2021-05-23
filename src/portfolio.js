@@ -7,7 +7,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "divide et impera",
+  title: "DivEtImpera",
   logo_name: "divideetimpera",
   nickname: "Experience is the teacher of all things",
   subTitle:
